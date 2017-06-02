@@ -1,1 +1,2 @@
-@import 'custom/custom.css';
+.Navbar__Brand a {
+  color: blue !important; }
