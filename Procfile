@@ -1,1 +1,1 @@
-web: npm run pro
+web: node server/index.js

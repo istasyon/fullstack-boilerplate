@@ -31,7 +31,6 @@
     "start:server": "node server",
     "build": "npm run build-css && react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject",
-    "pro": "npm run build && npm run start:server"
+    "eject": "react-scripts eject"
   }
 }
